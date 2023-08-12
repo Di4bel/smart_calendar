@@ -1,2 +1,2 @@
-# smart_calender
-a personal calender-site
+# smart_calendar
+a personal calendar-site
