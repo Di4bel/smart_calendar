@@ -1,5 +1,5 @@
 <?php
-namespace smartCalender\Database;
+namespace smartCalendar\Database;
 
 class Database extends \mysqli
 {
