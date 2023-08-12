@@ -2,5 +2,7 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/8a591e55-0d9a-4866-85c6-874ee40c2601/console.sql" dialect="MariaDB" />
+    <file url="file://$PROJECT_DIR$/Database/Database.php" dialect="MariaDB" />
+    <file url="PROJECT" dialect="MariaDB" />
   </component>
 </project>
